@@ -1,0 +1,27 @@
+#name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#img1{
+    border-width: 2px; 
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+}
+#img2{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+}
+#img3{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#view{
+    margin-left: 700px;
+}
+
